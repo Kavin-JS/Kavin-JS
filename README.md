@@ -14,12 +14,12 @@
 
 Computer Engineering student focused on **systems programming, web development, and AI-assisted software engineering**.
 
-- Solved **100+ LeetCode problems**
-- Maximum coding streak: **32 days**
-- Strong foundation in **Data Structures, Algorithms, and Optimization**
-- Experience with **Prompt Engineering and Generative AI workflows**
-- Comfortable working in **Linux environments and CLI tools**
-- Interested in building **reliable and scalable software systems**
+• Solved **100+ LeetCode problems**  
+• Maximum coding streak: **32 days**  
+• Strong foundation in **Data Structures, Algorithms, and Optimization**  
+• Experience with **Prompt Engineering and Generative AI workflows**  
+• Comfortable working in **Linux environments and CLI tools**  
+• Interested in building **reliable and scalable software systems**
 
 ---
 
@@ -32,11 +32,11 @@ Worked on structured AI interaction workflows and automation logic.
 
 **Key Contributions**
 
-- Converted vague instructions into deterministic prompts with constraints and role definitions  
-- Designed prompts to transform unstructured text into structured JSON output  
-- Built multi-turn AI assistants (interview bot, tutoring agent, task assistant)  
-- Refined prompts iteratively to improve reliability and reduce hallucinations  
-- Evaluated LLM outputs across variations for consistency and clarity  
+• Converted vague instructions into deterministic prompts with constraints and role definitions  
+• Designed prompts to transform unstructured text into structured JSON output  
+• Built multi-turn AI assistants (interview bot, tutoring agent, task assistant)  
+• Refined prompts iteratively to improve reliability and reduce hallucinations  
+• Evaluated LLM outputs across variations for consistency and clarity  
 
 **Concepts Applied**
 
@@ -52,25 +52,39 @@ Prompt Structuring • LLM Behavior Control • Output Validation • Automation
 
 ### Core Areas
 
-- Data Structures & Algorithms  
-- Object-Oriented Programming (Java, C++)  
-- Systems Programming (C, Linux)  
-- Web Development (HTML, CSS, JavaScript)  
-- Shell Scripting & CLI Automation  
-- Prompt Engineering & Generative AI  
+• Data Structures & Algorithms  
+• Object-Oriented Programming (Java, C++)  
+• Systems Programming (C, Linux)  
+• Web Development (HTML, CSS, JavaScript)  
+• Shell Scripting & CLI Automation  
+• Prompt Engineering & Generative AI  
 
 ### Academic Exposure
 
-- VHDL (Digital Logic & Hardware Modeling – Basic)
+• VHDL (Digital Logic & Hardware Modeling – Basic)
 
 ---
 
 # 🏆 Certifications
 
-- Generative AI in Action  
-- HackerRank SQL (Basic)  
-- Database Management Systems (RDBMS) & Microsoft Fabric SQL  
-- Data Analytics Bootcamp  
+### Artificial Intelligence
+
+• Prompt Engineering — Infosys Springboard  
+• Introduction to OpenAI GPT Models — Infosys Springboard  
+• AI-first Software Engineering — Infosys Springboard  
+• OpenAI GPT-3 for Developers — Infosys Springboard  
+
+### Databases
+
+• SQL (Advanced) — HackerRank  
+• SQL (Intermediate) — HackerRank  
+• SQL (Basic) — HackerRank  
+
+### Data & AI
+
+• Generative AI in Action  
+• Database Management Systems (RDBMS) & Microsoft Fabric SQL  
+• Data Analytics Bootcamp
 
 ---
 
@@ -107,20 +121,25 @@ Prompt Structuring • LLM Behavior Control • Output Validation • Automation
 
 # 🚀 Featured Repositories
 
-- **SkillCraftTechnology_PromptEngineering_Tasks** — Prompt engineering internship work  
-- **OOP-LAB** — Object-oriented programming implementations in Java  
-- **DSA-3rd-SEM** — Data structures implementations in C  
-- **CH.SC.U4CSE24119_DAA** — Design and Analysis of Algorithms coursework  
-- **Haskell__SQL** — Functional programming and SQL exercises  
-- **ShonoWear-v2.0** — Improved HTML/CSS/JavaScript storefront project  
+• **SkillCraftTechnology_PromptEngineering_Tasks** — Prompt engineering internship work  
+• **OOP-LAB** — Object-oriented programming implementations in Java  
+• **DSA-3rd-SEM** — Data structures implementations in C  
+• **CH.SC.U4CSE24119_DAA** — Design and Analysis of Algorithms coursework  
+• **Haskell__SQL** — Functional programming and SQL exercises  
+• **ShonoWear-v2.0** — HTML/CSS/JavaScript fashion storefront project  
 
 ---
 
 # 📫 Connect
 
-- LinkedIn: https://www.linkedin.com/in/kavinjs/  
-- LeetCode: https://leetcode.com/u/kavinjs/  
-- Email: **kavinjs.dev@gmail.com**
+LinkedIn  
+https://www.linkedin.com/in/kavinjs/
+
+LeetCode  
+https://leetcode.com/u/kavinjs/
+
+Email  
+kavinjs.dev@gmail.com
 
 <p align="center">
 <b>Structured Thinking • Reliable Execution • Continuous Improvement</b>
