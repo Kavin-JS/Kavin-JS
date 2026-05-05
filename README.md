@@ -1,41 +1,45 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0d1117,100:0A66C2&height=200&section=header&text=Kavin%20J%20S&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CS%20Engineering%20%E2%80%A2%20AI%20%26%20Prompt%20Engineering%20%E2%80%A2%20Web%20Development&descAlignY=60&descAlign=50&descSize=16"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0A2540,100:0A66C2&height=220&section=header&text=Kavin%20J%20S&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Computer%20Science%20Engineering%20%E2%80%A2%20AI%20%26%20Prompt%20Engineering%20%E2%80%A2%20Web%20Development&descAlignY=57&descAlign=50&descSize=15"/>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kavinjs/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+  </a>&nbsp;
   <a href="https://leetcode.com/u/kavinjs/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
+  </a>&nbsp;
   <a href="mailto:kavinjs.dev@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  </a>&nbsp;
   <a href="https://github.com/Kavin-JS">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=800&color=0A66C2&center=true&vCenter=true&width=700&lines=AI+%26+Prompt+Engineering;Systems+Programming+%7C+Linux;Web+Development+%7C+HTML+%2F+CSS+%2F+JS;Data+Structures+%26+Algorithms;Generative+AI+Workflows;100%2B+LeetCode+Problems+Solved" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=900&color=0A66C2&center=true&vCenter=true&width=800&lines=C+%7C+C%2B%2B+%7C+Python+%7C+Java;JavaScript+%7C+HTML+%7C+CSS;Linux+%7C+Shell+Scripting;Data+Structures+%7C+Algorithms;Generative+AI+%7C+Prompt+Engineering;Systems+Programming+%7C+Optimization" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kavin-JS&label=Profile+Views&color=0A66C2&style=flat-square"/>
+  <img src="https://komarev.com/ghpvc/?username=Kavin-JS&label=Profile%20Views&color=0A66C2&style=for-the-badge"/>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🧠 About Me
 
 > **3rd-year Computer Science Engineering student** at Amrita Vishwa Vidyapeetham, Chennai — building at the intersection of AI, systems, and the web.
 
-I focus on **AI-assisted software engineering**, **prompt engineering**, and **building clean, functional software** from scratch. I work primarily in Linux environments, write structured prompts that actually behave, and ship code that solves real problems.
+```
+📍 Chennai, India              🎓 CSE @ Amrita Vishwa Vidyapeetham
+🧩 100+ LeetCode Problems       🔥 32-day Max Coding Streak
+🤖 Prompt Engineering Intern    🐧 Linux-first developer
+```
 
-```
-📍 Chennai, India          🎓 CSE @ Amrita Vishwa Vidyapeetham
-🧩 100+ LeetCode Problems   🔥 32-day Max Coding Streak
-🤖 Prompt Engineering Intern (SkillCraft Technology, Jan–Feb 2026)
-```
+- Solved **100+ LeetCode problems** | Max coding streak: **32 days**
+- Strong foundation in **Data Structures, Algorithms, and Optimization**
+- Experience with **Prompt Engineering and Generative AI workflows**
+- Comfortable working in **Linux environments and CLI tools**
+- Interested in building **reliable and scalable software systems**
 
 ---
 
@@ -44,91 +48,54 @@ I focus on **AI-assisted software engineering**, **prompt engineering**, and **b
 ### 🏢 Prompt Engineering Intern — SkillCraft Technology
 **Jan 2026 – Feb 2026**
 
-Designed and evaluated production-grade AI prompts for structured output, reliability, and multi-turn agent workflows.
+Worked on structured AI interaction workflows and automation logic.
 
-| Area | Work Done |
-|------|-----------|
-| **Prompt Design** | Converted vague inputs into deterministic prompts with role definitions & constraints |
-| **Structured Output** | Engineered prompts to reliably produce JSON from unstructured text |
-| **Agent Workflows** | Built multi-turn assistants: interview bot, tutoring agent, task assistant |
-| **Evaluation** | Measured LLM output consistency across prompt variations; reduced hallucinations |
+| Contribution | Details |
+|---|---|
+| **Prompt Structuring** | Converted vague instructions into deterministic prompts with constraints and role definitions |
+| **Structured Output** | Designed prompts to transform unstructured text into reliable JSON |
+| **Agent Workflows** | Built multi-turn AI assistants — interview bot, tutoring agent, task assistant |
+| **Evaluation** | Refined prompts iteratively; measured output consistency across variations |
 
-`Prompt Structuring` `LLM Behavior Control` `Output Validation` `Automation Logic`
+`Prompt Structuring` &nbsp; `LLM Behavior Control` &nbsp; `Output Validation` &nbsp; `Automation Logic`
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Technical Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,haskell&theme=dark&perline=5"/>
-  <br/>
-  <img src="https://skillicons.dev/icons?i=js,html,css,linux,bash&theme=dark&perline=5"/>
-  <br/>
-  <img src="https://skillicons.dev/icons?i=git,github,mysql&theme=dark&perline=5"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,haskell,js,html,css,linux,bash,git,github,mysql&theme=dark"/>
 </p>
 
-<details>
-<summary><b>🔍 Areas of Focus</b></summary>
-<br/>
+### Core Areas
 
-**Core Engineering**
-- Data Structures & Algorithms (C, Python)
-- Object-Oriented Programming (Java, C++)
-- Systems Programming & Memory Management (C)
-- Shell Scripting & CLI Automation (Bash, Linux)
-
-**AI & Automation**
-- Prompt Engineering & LLM Workflow Design
-- Generative AI Integration
-- Structured Output Engineering
-
-**Web**
-- Frontend Development (HTML, CSS, JavaScript)
-- Static Site Architecture
-
-**Academic**
-- VHDL — Digital Logic & Hardware Modeling
-
-</details>
+| Domain | Skills |
+|---|---|
+| **Languages** | C, C++, Python, Java, JavaScript, Haskell |
+| **Web** | HTML, CSS, JavaScript |
+| **Systems** | Linux, Bash, Shell Scripting, CLI Automation |
+| **AI / Prompt Eng.** | Prompt Engineering, Generative AI, LLM Workflows |
+| **CS Fundamentals** | Data Structures, Algorithms, OOP |
+| **Databases** | MySQL, SQL |
+| **Academic** | VHDL (Digital Logic & Hardware Modeling — Basic) |
 
 ---
 
 ## 🏆 Certifications
 
-<details open>
-<summary><b>Artificial Intelligence</b></summary>
-
+### 🤖 Artificial Intelligence
 - ✅ Prompt Engineering — *Infosys Springboard*
-- ✅ AI-first Software Engineering — *Infosys Springboard*
 - ✅ Introduction to OpenAI GPT Models — *Infosys Springboard*
+- ✅ AI-first Software Engineering — *Infosys Springboard*
 - ✅ OpenAI GPT-3 for Developers — *Infosys Springboard*
 - ✅ Generative AI in Action
 
-</details>
-
-<details>
-<summary><b>Databases & Data</b></summary>
-
+### 🗄 Databases & Data
 - ✅ SQL Advanced — *HackerRank*
 - ✅ SQL Intermediate — *HackerRank*
 - ✅ SQL Basic — *HackerRank*
 - ✅ Database Management Systems (RDBMS) & Microsoft Fabric SQL
 - ✅ Data Analytics Bootcamp
-
-</details>
-
----
-
-## 🚀 Featured Projects
-
-| Project | Stack | Description |
-|---------|-------|-------------|
-| [**ShonoWear v2.0**](https://github.com/Kavin-JS/ShonoWear-v2.0) | HTML / CSS / JS | Anime-inspired streetwear discovery platform — 13 pages, outfit builder, drop countdown, cart |
-| [**SkillCraft Prompt Engineering**](https://github.com/Kavin-JS/SkillCraftTechnology_PromptEngineering_Tasks) | AI / Prompts | Internship deliverables — structured prompts, multi-turn agents, JSON output pipelines |
-| [**DSA — 3rd Sem**](https://github.com/Kavin-JS/DSA-3rd-SEM) | C | Core data structures implementations |
-| [**OOP Lab**](https://github.com/Kavin-JS/OOP-LAB) | Java | Object-oriented programming exercises |
-| [**DAA Coursework**](https://github.com/Kavin-JS/CH.SC.U4CSE24119_DAA) | C / Python | Design & Analysis of Algorithms |
-| [**Haskell & SQL**](https://github.com/Kavin-JS/Haskell__SQL) | Haskell / SQL | Functional programming + database exercises |
 
 ---
 
@@ -136,27 +103,27 @@ Designed and evaluated production-grade AI prompts for structured output, reliab
 
 <p align="center">
   <a href="https://leetcode.com/u/kavinjs/">
-    <img src="https://leetcard.jacoblin.cool/kavinjs?theme=dark&font=Fira+Code&ext=heatmap&width=500"/>
+    <img src="https://leetcard.jacoblin.cool/kavinjs?theme=dark&font=Fira+Code&ext=heatmap"/>
   </a>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kavin-JS&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Kavin-JS&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&rank_icon=github" height="170"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavin-JS&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavin-JS&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Kavin-JS&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
+  <img src="https://streak-stats.demolab.com?user=Kavin-JS&theme=github-dark-blue&hide_border=true"/>
 </p>
 
 ---
 
-## 🐍 Contribution Graph
+## 🐍 Contribution Activity
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
@@ -164,10 +131,35 @@ Designed and evaluated production-grade AI prompts for structured output, reliab
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:000000&height=100&section=footer"/>
-</p>
+## 🚀 Featured Repositories
+
+| Repository | Description | Stack |
+|---|---|---|
+| [**ShonoWear-v2.0**](https://github.com/Kavin-JS/ShonoWear-v2.0) | Anime-inspired streetwear discovery platform — 13 pages, outfit builder, drop countdown, cart | HTML / CSS / JS |
+| [**SkillCraft Prompt Engineering**](https://github.com/Kavin-JS/SkillCraftTechnology_PromptEngineering_Tasks) | Internship deliverables — structured prompts, agents, JSON pipelines | AI / Prompts |
+| [**OOP-LAB**](https://github.com/Kavin-JS/OOP-LAB) | Object-oriented programming implementations | Java |
+| [**DSA-3rd-SEM**](https://github.com/Kavin-JS/DSA-3rd-SEM) | Data structures implementations | C |
+| [**CH.SC.U4CSE24119_DAA**](https://github.com/Kavin-JS/CH.SC.U4CSE24119_DAA) | Design and Analysis of Algorithms coursework | C / Python |
+| [**Haskell__SQL**](https://github.com/Kavin-JS/Haskell__SQL) | Functional programming and SQL exercises | Haskell / SQL |
+
+---
+
+## 📫 Connect
 
 <p align="center">
-  <i>Structured Thinking · Reliable Execution · Continuous Improvement</i>
+  <a href="https://www.linkedin.com/in/kavinjs/">
+    <img src="https://img.shields.io/badge/LinkedIn-%40kavinjs-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>&nbsp;
+  <a href="https://leetcode.com/u/kavinjs/">
+    <img src="https://img.shields.io/badge/LeetCode-%40kavinjs-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>&nbsp;
+  <a href="mailto:kavinjs.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-kavinjs.dev%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:0d1117&height=120&section=footer"/>
+
+<p align="center">
+  <b>Structured Thinking &nbsp;•&nbsp; Reliable Execution &nbsp;•&nbsp; Continuous Improvement</b>
 </p>
