@@ -123,10 +123,18 @@ Worked on structured AI interaction workflows and automation logic.
 
 ---
 
-## 🐍 Contribution Activity
+## 🏅 GitHub Trophies
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Kavin-JS&theme=onestar&no-frame=true&no-bg=true&margin-w=6&row=1"/>
+</p>
+
+---
+
+## 📅 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kavin-JS&theme=react-dark&hide_border=true&area=true&area_color=0A66C2&color=0A66C2&line=0A66C2&point=ffffff" width="100%"/>
 </p>
 
 ---
