@@ -123,18 +123,10 @@ Worked on structured AI interaction workflows and automation logic.
 
 ---
 
-## 🏅 GitHub Trophies
+## 😄 Daily Dev Joke
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kavin-JS&theme=onestar&no-frame=true&no-bg=true&margin-w=6&row=1"/>
-</p>
-
----
-
-## 📅 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kavin-JS&theme=react-dark&hide_border=true&area=true&area_color=0A66C2&color=0A66C2&line=0A66C2&point=ffffff" width="100%"/>
+  <img src="https://readme-jokes.vercel.app/api?bgColor=%230d1117&textColor=%23ffffff&borderColor=%230A66C2&qColor=%230A66C2&aColor=%23ffffff&codeColor=%230A66C2" alt="Dev Joke"/>
 </p>
 
 ---
