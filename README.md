@@ -1,12 +1,13 @@
 <p align="center">
-  <img src="assets/hud.svg" alt="Kavin J S — HUD header" width="100%"/>
+  <img src="assets/hero.svg" alt="Kavin J S — Full-stack, AI workflows and embedded systems" width="100%"/>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kavinjs/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://leetcode.com/u/kavinjs/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-  <a href="https://kavin-js.github.io"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=githubpages&logoColor=58A6FF"/></a>
+  <a href="https://kavin-js.github.io"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=githubpages&logoColor=22d3ee"/></a>
   <a href="mailto:kavinjs.dev@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=Kavin-JS&label=Views&color=0A66C2&style=for-the-badge"/>
 </p>
 
 <p align="center"><img src="assets/signal.svg" width="100%" alt=""/></p>
@@ -15,26 +16,22 @@
 
 <p align="center"><img src="assets/signal.svg" width="100%" alt=""/></p>
 
+## `// SKILL ORBIT`
+
+<p align="center"><img src="assets/orbit.svg" alt="Skill orbit" width="100%"/></p>
+
+## `// BLE SCAN`
+
+<p align="center"><img src="assets/radar.svg" alt="BLE radar showing skills as detected devices" width="100%"/></p>
+
+---
+
 ## `// MISSION LOG`
 
 - 🎯 **Now:** placement prep, DSA grind, shipping real projects
 - 🛠️ **Building:** BLE attendance capstone · Astra voice wake system · ESP32 experiments
 - 📚 **Leveling up:** JavaScript, modern web dev, C++
 - 🤝 **Open to:** internships, open-source collabs, hackathons
-
----
-
-## `// ARSENAL`
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,haskell,js,html,css,flask,linux,bash,git,github,mysql&theme=dark"/>
-</p>
-
-| Clearance | Stack |
-|:--|:--|
-| 🟢 **Primary** | `C` `Python` |
-| 🟡 **Secondary** | `Java` `Haskell` `Bash` `SQL` `Git` `Linux` `Flask` |
-| 🔵 **Training** | `JavaScript` `Modern Web Dev` `C++` |
 
 ---
 
@@ -155,10 +152,6 @@ Club communications, sponsorship outreach, and partnership materials.
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Kavin-JS&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&rank_icon=github"/>
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavin-JS&layout=compact&theme=github_dark&hide_border=true&langs_count=8"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Kavin-JS&theme=github-dark-blue&hide_border=true"/>
 </p>
 
 ---
