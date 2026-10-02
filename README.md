@@ -1,141 +1,52 @@
 <p align="center">
-  <img src="assets/hero.svg" alt="Kavin J S — Full-stack, AI workflows and embedded systems" width="100%"/>
+  <img src="assets/hero.svg" alt="Kavin J S — full-stack, AI workflows and embedded systems" width="100%"/>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kavinjs/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://leetcode.com/u/kavinjs/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-  <a href="https://kavin-js.github.io"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=githubpages&logoColor=22d3ee"/></a>
+  <a href="https://kavinjs.me"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=githubpages&logoColor=22d3ee"/></a>
   <a href="mailto:kavinjs.dev@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <img src="https://komarev.com/ghpvc/?username=Kavin-JS&label=Views&color=0A66C2&style=for-the-badge"/>
 </p>
 
-<p align="center"><img src="assets/signal.svg" width="100%" alt=""/></p>
-
-<p align="center"><img src="assets/terminal.svg" alt="neofetch-style profile" width="720"/></p>
-
-<p align="center"><img src="assets/signal.svg" width="100%" alt=""/></p>
-
-## `// SKILL ORBIT`
-
-<p align="center"><img src="assets/orbit.svg" alt="Skill orbit" width="100%"/></p>
-
-## `// BLE SCAN`
-
-<p align="center"><img src="assets/radar.svg" alt="BLE radar showing skills as detected devices" width="100%"/></p>
-
----
-
-## `// MISSION LOG`
-
-- 🎯 **Now:** placement prep, DSA grind, shipping real projects
-- 🛠️ **Building:** BLE attendance capstone · Astra voice wake system · ESP32 experiments
-- 📚 **Leveling up:** JavaScript, modern web dev, C++
-- 🤝 **Open to:** internships, open-source collabs, hackathons
-
----
-
-## `// PROJECT FILES`
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 📡 BLE Attendance System
-Capstone: multi-node Bluetooth Low Energy classroom attendance.<br/>
-`Embedded` `BLE` `IoT`<br/>
-<a href="https://github.com/Kavin-JS">🔗 Repo</a> <!-- TODO: repo link -->
-
-</td>
-<td width="50%" valign="top">
-
-### 🎙️ Astra — Voice Wake System
-Real-time wake-word detection with a desktop demo and a browser dashboard.<br/>
-`Python` `Flask` `Audio`<br/>
-<a href="https://github.com/Kavin-JS">🔗 Repo</a> <!-- TODO: repo link -->
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📶 ESP32 Wi-Fi Extender
-STA + SoftAP + NAT repeater on an ESP32, built in the Arduino IDE.<br/>
-`ESP32` `Networking` `C++`<br/>
-<a href="https://github.com/Kavin-JS">🔗 Repo</a> <!-- TODO: repo link -->
-
-</td>
-<td width="50%" valign="top">
-
-### 🦾 Iron Man HUD
-Multi-panel Conky HUD on Kali Linux / KDE Wayland.<br/>
-`Linux` `Conky`<br/>
-<a href="https://github.com/Kavin-JS">🔗 Repo</a> <!-- TODO: repo link -->
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🛍️ [ShonoWear v4.0](https://github.com/Kavin-JS/Shonowear-Ver4.0)
-Anime-inspired streetwear platform with interactive UI concepts.<br/>
-`HTML` `CSS` `JS`
-
-</td>
-<td width="50%" valign="top">
-
-### 🧠 [Prompt Engineering Tasks](https://github.com/Kavin-JS/SkillCraftTechnology_PromptEngineering_Tasks)
-Structured prompting and AI workflow experiments.<br/>
-`AI` `Prompts` `JSON`
-
-</td>
-</tr>
-</table>
+<p align="center"><img src="assets/div-about.svg" width="100%" alt="01 About"/></p>
 
 <p align="center">
-  <a href="https://kavin-js.github.io"><b>🌐 Portfolio</b></a> &nbsp;·&nbsp;
-  <a href="https://github.com/Kavin-JS/DSA-3rd-SEM"><b>🌲 DSA in C</b></a>
+  <img src="assets/about.svg" width="49%" alt="About Kavin"/>
+  <img src="assets/now.svg" width="49%" alt="What Kavin is working on now"/>
 </p>
 
----
+<p align="center"><img src="assets/div-live.svg" width="100%" alt="02 Live stats"/></p>
 
-## `// SERVICE RECORD`
+<p align="center"><img src="assets/stats.svg" width="100%" alt="Live GitHub and LeetCode stats"/></p>
 
-<details open>
-<summary><b>🏢 Prompt Engineering Intern — SkillCraft Technology</b> &nbsp;<code>Jan – Feb 2026</code></summary>
-<br/>
+<p align="center"><img src="assets/div-skills.svg" width="100%" alt="03 Skills"/></p>
 
-| Contribution | Details |
-|---|---|
-| **Prompt Structuring** | Turned vague instructions into deterministic prompts with constraints and role definitions |
-| **Structured Output** | Designed prompts that convert unstructured text into reliable JSON |
-| **Agent Workflows** | Built multi-turn assistants: interview bot, tutoring agent, task assistant |
-| **Evaluation** | Iteratively refined prompts and measured output consistency |
+<p align="center"><img src="assets/marquee.svg" width="100%" alt="Languages, tools and domains"/></p>
 
-</details>
+<p align="center"><img src="assets/radar.svg" width="100%" alt="BLE scan: skills as detected devices, ranked by signal strength"/></p>
 
-<details>
-<summary><b>🐧 PR Lead — AMCFOSS</b> &nbsp;<code>Amrita Free and Open Source Software Club</code></summary>
-<br/>
+<p align="center"><img src="assets/div-projects.svg" width="100%" alt="04 Projects"/></p>
 
-Club communications, sponsorship outreach, and partnership materials.
+<p align="center">
+  <a href="https://github.com/Kavin-JS/GrovX"><img src="assets/proj-grovx.svg" width="49%" alt="GrovX"/></a>
+  <a href="https://github.com/Kavin-JS/TransportSense"><img src="assets/proj-transport.svg" width="49%" alt="TransportSense"/></a>
+  <a href="https://github.com/Kavin-JS/Voice-Wake-Word-System"><img src="assets/proj-voice.svg" width="49%" alt="Voice Wake-Word System"/></a>
+  <img src="assets/proj-ble.svg" width="49%" alt="BLE Attendance System"/>
+  <img src="assets/proj-esp32.svg" width="49%" alt="ESP32 Wi-Fi Extender"/>
+  <img src="assets/proj-hud.svg" width="49%" alt="Iron Man HUD"/>
+</p>
 
-</details>
+<p align="center">
+  <a href="https://kavinjs.me"><img src="assets/mini-portfolio.svg" width="32.5%" alt="Portfolio"/></a>
+  <a href="https://github.com/Kavin-JS/Data_Structures_and_Algorithms"><img src="assets/mini-dsa.svg" width="32.5%" alt="DSA in C"/></a>
+  <a href="https://github.com/Kavin-JS/Shonowear-Ver4.0"><img src="assets/mini-shono.svg" width="32.5%" alt="ShonoWear v4.0"/></a>
+</p>
 
-<details>
-<summary><b>🏆 Certifications</b></summary>
-<br/>
+<p align="center"><img src="assets/div-journey.svg" width="100%" alt="05 Journey"/></p>
 
-<img src="https://img.shields.io/badge/Prompt_Engineering-Infosys_Springboard-007CC3?style=flat-square"/>
-<img src="https://img.shields.io/badge/AI--first_Software_Engineering-Infosys_Springboard-007CC3?style=flat-square"/>
-<img src="https://img.shields.io/badge/Intro_to_OpenAI_GPT-Infosys_Springboard-007CC3?style=flat-square"/>
-<img src="https://img.shields.io/badge/SQL_Advanced-HackerRank-00EA64?style=flat-square&logo=hackerrank&logoColor=black"/>
-
-</details>
-
----
-
-## `// TELEMETRY`
+<p align="center"><img src="assets/timeline.svg" width="100%" alt="Internship, club role, capstone and certifications"/></p>
 
 <p align="center">
   <picture>
@@ -145,16 +56,9 @@ Club communications, sponsorship outreach, and partnership materials.
   </picture>
 </p>
 
-<p align="center">
-  <a href="https://leetcode.com/u/kavinjs/"><img src="https://leetcard.jacoblin.cool/kavinjs?theme=dark&font=Fira+Code&ext=heatmap"/></a>
-</p>
+<p align="center"><img src="assets/div-connect.svg" width="100%" alt="06 Connect"/></p>
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Kavin-JS&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&rank_icon=github"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavin-JS&layout=compact&theme=github_dark&hide_border=true&langs_count=8"/>
-</p>
-
----
+<p align="center"><img src="assets/contact.svg" width="100%" alt="Contact"/></p>
 
 <details>
 <summary><b>🔓 Run protocol: MARK-II</b></summary>
@@ -165,7 +69,7 @@ Club communications, sponsorship outreach, and partnership materials.
 [sudo] password for recruiter: ********
 Authenticating ........ OK
 Loading resume ........ OK
-Checking LeetCode ..... 100+ solved, 32-day streak
+Checking LeetCode ..... solved, streak intact
 Compiling coffee ...... 0 errors, 3 warnings
 Result: strong candidate detected 🚀
 
@@ -174,8 +78,4 @@ Result: strong candidate detected 🚀
 
 </details>
 
-<p align="center"><img src="assets/signal.svg" width="100%" alt=""/></p>
-
-<p align="center">
-  <b>Structured Thinking &nbsp;•&nbsp; Reliable Execution &nbsp;•&nbsp; Continuous Improvement</b>
-</p>
+<p align="center"><sub>Structured Thinking &nbsp;•&nbsp; Reliable Execution &nbsp;•&nbsp; Continuous Improvement</sub></p>
