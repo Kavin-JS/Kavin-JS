@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 490 300" width="490" height="300" role="img" aria-label="BLE Classroom Presence">
+<defs><clipPath id="c"><rect width="490" height="300" rx="12"/></clipPath></defs>
+<g clip-path="url(#c)">
+<rect width="490" height="300" fill="#f6f8fa"/>
+  <line x1="75" y1="82" x2="245" y2="76" stroke="#afb8c1" stroke-width="1" stroke-opacity="0.7" fill="none" stroke-dasharray="2 5"/>
+    <circle cx="75" cy="82" r="4" stroke="#0969da" stroke-width="1.3" fill="none"><animate attributeName="r" values="4;22;22" keyTimes="0;0.5;1" dur="3.6s" begin="0.0s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.8;0;0" keyTimes="0;0.5;1" dur="3.6s" begin="0.0s" repeatCount="indefinite"/></circle>
+    <circle cx="75" cy="82" r="5" fill="#f6f8fa" stroke="#afb8c1" stroke-width="1.6" stroke-opacity="1"/><line x1="133" y1="126" x2="245" y2="76" stroke="#afb8c1" stroke-width="1" stroke-opacity="0.7" fill="none" stroke-dasharray="2 5"/>
+    <circle cx="133" cy="126" r="4" stroke="#0969da" stroke-width="1.3" fill="none"><animate attributeName="r" values="4;22;22" keyTimes="0;0.5;1" dur="3.6s" begin="0.5s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.8;0;0" keyTimes="0;0.5;1" dur="3.6s" begin="0.5s" repeatCount="indefinite"/></circle>
+    <circle cx="133" cy="126" r="5" fill="#f6f8fa" stroke="#afb8c1" stroke-width="1.6" stroke-opacity="1"/><line x1="173" y1="40" x2="245" y2="76" stroke="#afb8c1" stroke-width="1" stroke-opacity="0.7" fill="none" stroke-dasharray="2 5"/>
+    <circle cx="173" cy="40" r="4" stroke="#0969da" stroke-width="1.3" fill="none"><animate attributeName="r" values="4;22;22" keyTimes="0;0.5;1" dur="3.6s" begin="1.0s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.8;0;0" keyTimes="0;0.5;1" dur="3.6s" begin="1.0s" repeatCount="indefinite"/></circle>
+    <circle cx="173" cy="40" r="5" fill="#f6f8fa" stroke="#afb8c1" stroke-width="1.6" stroke-opacity="1"/><line x1="317" y1="40" x2="245" y2="76" stroke="#afb8c1" stroke-width="1" stroke-opacity="0.7" fill="none" stroke-dasharray="2 5"/>
+    <circle cx="317" cy="40" r="4" stroke="#0969da" stroke-width="1.3" fill="none"><animate attributeName="r" values="4;22;22" keyTimes="0;0.5;1" dur="3.6s" begin="1.5s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.8;0;0" keyTimes="0;0.5;1" dur="3.6s" begin="1.5s" repeatCount="indefinite"/></circle>
+    <circle cx="317" cy="40" r="5" fill="#f6f8fa" stroke="#afb8c1" stroke-width="1.6" stroke-opacity="1"/><line x1="357" y1="126" x2="245" y2="76" stroke="#afb8c1" stroke-width="1" stroke-opacity="0.7" fill="none" stroke-dasharray="2 5"/>
+    <circle cx="357" cy="126" r="4" stroke="#0969da" stroke-width="1.3" fill="none"><animate attributeName="r" values="4;22;22" keyTimes="0;0.5;1" dur="3.6s" begin="2.0s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.8;0;0" keyTimes="0;0.5;1" dur="3.6s" begin="2.0s" repeatCount="indefinite"/></circle>
+    <circle cx="357" cy="126" r="5" fill="#f6f8fa" stroke="#afb8c1" stroke-width="1.6" stroke-opacity="1"/><line x1="415" y1="82" x2="245" y2="76" stroke="#afb8c1" stroke-width="1" stroke-opacity="0.7" fill="none" stroke-dasharray="2 5"/>
+    <circle cx="415" cy="82" r="4" stroke="#0969da" stroke-width="1.3" fill="none"><animate attributeName="r" values="4;22;22" keyTimes="0;0.5;1" dur="3.6s" begin="2.5s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.8;0;0" keyTimes="0;0.5;1" dur="3.6s" begin="2.5s" repeatCount="indefinite"/></circle>
+    <circle cx="415" cy="82" r="5" fill="#f6f8fa" stroke="#afb8c1" stroke-width="1.6" stroke-opacity="1"/><line x1="245" y1="134" x2="245" y2="76" stroke="#afb8c1" stroke-width="1" stroke-opacity="0.7" fill="none" stroke-dasharray="2 5"/>
+    <circle cx="245" cy="134" r="4" stroke="#0969da" stroke-width="1.3" fill="none"><animate attributeName="r" values="4;22;22" keyTimes="0;0.5;1" dur="3.6s" begin="3.0s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.8;0;0" keyTimes="0;0.5;1" dur="3.6s" begin="3.0s" repeatCount="indefinite"/></circle>
+    <circle cx="245" cy="134" r="5" fill="#f6f8fa" stroke="#afb8c1" stroke-width="1.6" stroke-opacity="1"/><rect x="229" y="60" width="32" height="32" rx="7" fill="#f6f8fa" stroke="#0969da" stroke-width="1.8"/>
+    <text x="245" y="80.5" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="700" fill="#0969da">GW</text>
+    <text x="26" y="36" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#818b98">ESP32 NODES  ·  RSSI</text>
+  <path d="M448 40 L464 24 M450 24 H464 V38" fill="none" stroke="#818b98" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="24" y1="154" x2="466" y2="154" stroke="#d0d7de"/>
+  <text x="26" y="188" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="19" font-weight="600" fill="#1f2328">BLE Classroom Presence</text>
+  <text x="26" y="213" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="13.5" fill="#59636e">Multi-node presence verification using ESP32, RSSI</text>
+  <text x="26" y="233" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="13.5" fill="#59636e">observations, Wi-Fi comms and rule-based checks.</text>
+  <text x="26" y="269" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#818b98">ESP32  ·  BLE  ·  Capstone</text>
+</g>
+<rect x="0.5" y="0.5" width="489" height="299" rx="12" fill="none" stroke="#d0d7de"/>
+</svg>

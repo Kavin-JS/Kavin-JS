@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 70" width="1000" height="70" role="img" aria-label="ABOUT">
-<defs><linearGradient id="ln" gradientUnits="userSpaceOnUse" x1="148" x2="992" y1="0" y2="0"><stop offset="0" stop-color="#a78bfa" stop-opacity="0.8"/><stop offset="1" stop-color="#a78bfa" stop-opacity="0"/></linearGradient></defs>
-<text x="8" y="44" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" font-weight="700" fill="#a78bfa">01</text>
-<text x="40" y="46" font-family="'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="26" font-weight="800" letter-spacing="2" fill="#e6edf3">ABOUT</text>
-<line x1="148" y1="36" x2="992" y2="36" stroke="url(#ln)" stroke-width="2"/>
-<circle cx="148" cy="36" r="4" fill="#a78bfa"><animate attributeName="cx" values="148;992" dur="3.4s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;0" dur="3.4s" repeatCount="indefinite"/></circle>
-</svg>
