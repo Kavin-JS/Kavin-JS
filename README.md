@@ -1,87 +1,62 @@
-<p align="center">
-  <img src="assets/hero.svg" alt="Kavin J S — full-stack, AI and embedded systems" width="100%"/>
-</p>
+# Kavin J S
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/kavinjs/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://leetcode.com/u/kavinjs/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-  <a href="https://kavinjs.me"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=githubpages&logoColor=22d3ee"/></a>
-  <a href="mailto:kavinjs.dev@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=Kavin-JS&label=Views&color=0A66C2&style=for-the-badge"/>
-</p>
+Computer science student at Amrita Vishwa Vidyapeetham, Chennai. I build AI pipelines, full-stack web applications and embedded systems, and I lead PR for AMCFOSS, the university's free and open source software club.
 
-<p align="center">
-  <b>Hi, I'm Kavin.</b> CSE student at Amrita Vishwa Vidyapeetham, Chennai, building across the stack:<br/>
-  web apps, RAG and AI pipelines, and embedded systems. PR Lead at AMCFOSS. Open to internships and collabs.
-</p>
+Looking for internship and placement opportunities in software engineering and AI/ML.
 
-<p align="center"><img src="assets/div-about.svg" width="100%" alt="01 About"/></p>
+[LinkedIn](https://www.linkedin.com/in/kavinjs/) · [Portfolio](https://kavinjs.me) · [LeetCode](https://leetcode.com/u/kavinjs/) · [Email](mailto:kavinjs.dev@gmail.com)
 
-<p align="center">
-  <img src="assets/about.svg" width="49%" alt="About Kavin"/>
-  <img src="assets/now.svg" width="49%" alt="What Kavin is working on now"/>
-</p>
+## Currently
 
-<p align="center"><img src="assets/div-live.svg" width="100%" alt="02 Live stats"/></p>
+- Building a multi-node BLE classroom presence system on ESP32 as my capstone project.
+- Working on retrieval-augmented generation and AI assistant projects.
+- Learning JavaScript and C++, and preparing for placements with regular DSA practice (100+ LeetCode problems solved, longest streak 32 days).
 
-<p align="center"><img src="assets/stats.svg" width="100%" alt="Live GitHub and LeetCode stats"/></p>
+## Selected projects
 
-<p align="center"><img src="assets/skyline.svg" width="100%" alt="3D contribution skyline for the last year"/></p>
+### AI and machine learning
 
-<p align="center"><img src="assets/activity.svg" width="100%" alt="Most recently pushed repositories"/></p>
+- **[RagForge](https://github.com/Kavin-JS/RagForge)**: production-grade RAG pipeline with hybrid retrieval, cross-encoder reranking, adaptive routing, hierarchical summarization and statistical evaluation. *Python*
+- **[AIKA](https://github.com/Kavin-JS/AIKA)**: modular AI assistant for knowledge management, task automation, reasoning and human-AI interaction. *JavaScript*
+- **[Real-Time Recommendation System](https://github.com/Kavin-JS/Real-Time-Recommendation-System)**: deep-learning recommender with heuristic ranking and an inference pipeline for personalised results.
+- **[AMLC26](https://github.com/Kavin-JS/AMLC26)**: business entity resolution for the Unstop ML Challenge. *Python*
 
-<p align="center"><img src="assets/div-skills.svg" width="100%" alt="03 Skills"/></p>
+### Embedded systems and signal processing
 
-<p align="center"><img src="assets/marquee.svg" width="100%" alt="Languages, tools and domains"/></p>
+- **[BLE Classroom Presence](https://github.com/Kavin-JS/BLE-Classroom-Presence)**: multi-node presence verification using ESP32 nodes, RSSI-based observations, Wi-Fi communication and rule-based checks. Capstone project.
+- **[Voice Wake-Word System](https://github.com/Kavin-JS/Voice-Wake-Word-System)**: offline real-time wake-word detection with Vosk and SoundDevice, including a live dashboard with confidence tracking and detection statistics. *Python*
+- **ESP32 Wi-Fi extender**: repeater built on an ESP32 using STA, SoftAP and NAT, programmed in the Arduino IDE. *C++*
 
-<p align="center"><img src="assets/radar.svg" width="100%" alt="BLE scan: skills as detected devices, ranked by signal strength"/></p>
+### Web and fundamentals
 
-<p align="center"><img src="assets/div-projects.svg" width="100%" alt="04 Projects"/></p>
+- **[GrovX](https://github.com/Kavin-JS/GrovX)**: interactive web app for exploring Grover's search algorithm through quantum simulation, probability visualisation and comparison with classical search. *JavaScript*
+- **[TransportSense](https://github.com/Kavin-JS/TransportSense)**: AI-powered transport emission analytics built with a functional programming approach.
+- **[Portfolio](https://kavinjs.me)** and **[ShonoWear](https://github.com/Kavin-JS/Shonowear-Ver4.0)**: personal site and a streetwear storefront front end. *HTML, CSS, JavaScript*
+- **[Data Structures and Algorithms](https://github.com/Kavin-JS/Data_Structures_and_Algorithms)**: implementations in C from coursework and practice.
 
-<p align="center">
-  <a href="https://github.com/Kavin-JS/RagForge"><img src="assets/proj-rag.svg" width="49%" alt="RagForge"/></a>
-  <a href="https://github.com/Kavin-JS/AIKA"><img src="assets/proj-aika.svg" width="49%" alt="AIKA"/></a>
-  <a href="https://github.com/Kavin-JS/BLE-Classroom-Presence"><img src="assets/proj-ble.svg" width="49%" alt="BLE Classroom Presence"/></a>
-  <a href="https://github.com/Kavin-JS/Voice-Wake-Word-System"><img src="assets/proj-voice.svg" width="49%" alt="Voice Wake-Word System"/></a>
-  <a href="https://github.com/Kavin-JS/GrovX"><img src="assets/proj-grovx.svg" width="49%" alt="GrovX"/></a>
-  <a href="https://github.com/Kavin-JS/TransportSense"><img src="assets/proj-transport.svg" width="49%" alt="TransportSense"/></a>
-  <img src="assets/proj-esp32.svg" width="49%" alt="ESP32 Wi-Fi Extender"/>
-  <img src="assets/proj-hud.svg" width="49%" alt="Iron Man HUD"/>
-</p>
+## Experience
 
-<p align="center">
-  <a href="https://github.com/Kavin-JS/Real-Time-Recommendation-System"><img src="assets/mini-recsys.svg" width="32.5%" alt="Real-Time Recommender"/></a>
-  <a href="https://github.com/Kavin-JS/AMLC26"><img src="assets/mini-amlc.svg" width="32.5%" alt="AMLC26"/></a>
-  <a href="https://github.com/Kavin-JS/SkillCraftTechnology_PromptEngineering_Tasks"><img src="assets/mini-prompts.svg" width="32.5%" alt="Prompt Engineering Tasks"/></a>
-  <a href="https://kavinjs.me"><img src="assets/mini-portfolio.svg" width="32.5%" alt="Portfolio"/></a>
-  <a href="https://github.com/Kavin-JS/Data_Structures_and_Algorithms"><img src="assets/mini-dsa.svg" width="32.5%" alt="DSA in C"/></a>
-  <a href="https://github.com/Kavin-JS/Shonowear-Ver4.0"><img src="assets/mini-shono.svg" width="32.5%" alt="ShonoWear v4.0"/></a>
-</p>
+**Prompt Engineering Intern, SkillCraft Technology** (Jan 2026 – Feb 2026)
 
-<p align="center"><img src="assets/div-journey.svg" width="100%" alt="05 Journey"/></p>
+- Rewrote vague instructions into deterministic prompts with explicit constraints and role definitions.
+- Designed prompts that turn unstructured text into reliable JSON, and validated the output.
+- Built multi-turn assistants: an interview bot, a tutoring agent and a task assistant.
+- Refined prompts iteratively and measured output consistency across variations.
 
-<p align="center"><img src="assets/timeline.svg" width="100%" alt="Internship, club role, capstone and certifications"/></p>
+**PR Lead, AMCFOSS** (Amrita Free and Open Source Software Club)
 
-<p align="center"><img src="assets/div-connect.svg" width="100%" alt="06 Connect"/></p>
+- Lead club communications, sponsorship outreach and partnership materials.
 
-<p align="center"><img src="assets/contact.svg" width="100%" alt="Contact"/></p>
+## Skills
 
-<details>
-<summary><b>🔓 Run protocol: MARK-II</b></summary>
-<br/>
+| | |
+|:--|:--|
+| **Strongest** | Python, C |
+| **Working knowledge** | Java, Haskell, JavaScript, SQL, Bash, Git, Linux |
+| **Learning** | C++, modern web development |
+| **Areas** | RAG and LLM workflows, prompt engineering, deep learning, embedded systems (ESP32, BLE), full-stack web |
 
-```text
-> sudo ./hire_kavin.sh
-[sudo] password for recruiter: ********
-Authenticating ........ OK
-Loading resume ........ OK
-Checking LeetCode ..... solved, streak intact
-Compiling coffee ...... 0 errors, 3 warnings
-Result: strong candidate detected 🚀
+## Certifications
 
-→ kavinjs.dev@gmail.com
-```
-
-</details>
-
-<p align="center"><sub>Structured Thinking &nbsp;•&nbsp; Reliable Execution &nbsp;•&nbsp; Continuous Improvement</sub></p>
+- Prompt Engineering, AI-first Software Engineering, Introduction to OpenAI GPT Models (Infosys Springboard)
+- SQL Advanced (HackerRank)
