@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 490 322" width="490" height="322" role="img">
+<defs>
+  <linearGradient id="tbg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#121b2e"/><stop offset="1" stop-color="#090e18"/></linearGradient>
+  <radialGradient id="b1" cx="50%" cy="50%" r="50%"><stop offset="0" stop-color="#f472b6" stop-opacity="0.34"/><stop offset="1" stop-color="#f472b6" stop-opacity="0"/></radialGradient>
+  <radialGradient id="b2" cx="50%" cy="50%" r="50%"><stop offset="0" stop-color="#a78bfa" stop-opacity="0.26"/><stop offset="1" stop-color="#a78bfa" stop-opacity="0"/></radialGradient>
+  <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#fff" fill-opacity="0.07"/></pattern>
+  <filter id="glow" x="-40%" y="-40%" width="180%" height="180%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <clipPath id="clipT"><rect width="490" height="322" rx="22"/></clipPath>
+  
+</defs>
+<g clip-path="url(#clipT)">
+  <rect width="490" height="322" fill="url(#tbg)"/>
+  <rect width="490" height="322" fill="url(#dots)"/>
+  <circle cx="451" cy="-10" r="206" fill="url(#b1)"><animateTransform attributeName="transform" type="translate" values="0 0;-26 18;0 0" dur="9s" repeatCount="indefinite"/></circle>
+  <circle cx="-10" cy="338" r="176" fill="url(#b2)"><animateTransform attributeName="transform" type="translate" values="0 0;22 -16;0 0" dur="11s" repeatCount="indefinite"/></circle>
+
+  <rect x="14" y="14" width="462" height="152" rx="14" fill="#05080d" fill-opacity="0.55" stroke="#fff" stroke-opacity="0.07"/>
+  <g transform="translate(0,14)"><g>
+      <rect x="34" y="38" width="64" height="60" rx="10" fill="#22d3ee" fill-opacity="0.1" stroke="#22d3ee" stroke-opacity="0.55" stroke-width="1.5">
+        <animate attributeName="stroke-opacity" values="0.35;1;0.35" dur="3.6s" begin="0s" repeatCount="indefinite"/></rect>
+      <text x="66" y="73" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" fill="#22d3ee">query?</text>
+      <text x="66.0" y="116" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" fill="#8ea0b8">QUERY</text></g><g>
+      <rect x="120" y="38" width="106" height="60" rx="10" fill="#a78bfa" fill-opacity="0.1" stroke="#a78bfa" stroke-opacity="0.55" stroke-width="1.5">
+        <animate attributeName="stroke-opacity" values="0.35;1;0.35" dur="3.6s" begin="0.8s" repeatCount="indefinite"/></rect>
+      <rect x="130" y="47" width="76" height="5" rx="2.5" fill="#a78bfa" fill-opacity="0.55"/><rect x="130" y="56" width="60" height="5" rx="2.5" fill="#a78bfa" fill-opacity="0.55"/><rect x="130" y="65" width="70" height="5" rx="2.5" fill="#a78bfa" fill-opacity="0.55"/><rect x="130" y="74" width="46" height="5" rx="2.5" fill="#a78bfa" fill-opacity="0.55"/><rect x="130" y="83" width="66" height="5" rx="2.5" fill="#a78bfa" fill-opacity="0.55"/><rect x="130" y="92" width="54" height="5" rx="2.5" fill="#a78bfa" fill-opacity="0.55"/>
+      <text x="173.0" y="116" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" fill="#8ea0b8">HYBRID RETRIEVAL</text></g><g>
+      <rect x="252" y="38" width="84" height="60" rx="10" fill="#34d399" fill-opacity="0.1" stroke="#34d399" stroke-opacity="0.55" stroke-width="1.5">
+        <animate attributeName="stroke-opacity" values="0.35;1;0.35" dur="3.6s" begin="1.6s" repeatCount="indefinite"/></rect>
+      <rect x="262" y="52" width="66" height="5" rx="2.5" fill="#f472b6" fill-opacity="0.95"/><rect x="262" y="64" width="58" height="5" rx="2.5" fill="#34d399" fill-opacity="0.55"/><rect x="262" y="76" width="44" height="5" rx="2.5" fill="#34d399" fill-opacity="0.55"/>
+      <text x="294.0" y="116" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" fill="#8ea0b8">RERANK</text></g><g>
+      <rect x="356" y="38" width="80" height="60" rx="10" fill="#fbbf24" fill-opacity="0.1" stroke="#fbbf24" stroke-opacity="0.55" stroke-width="1.5">
+        <animate attributeName="stroke-opacity" values="0.35;1;0.35" dur="3.6s" begin="2.4s" repeatCount="indefinite"/></rect>
+      <rect x="366" y="50" width="58" height="5" rx="2.5" fill="#fbbf24" fill-opacity="0.75"/><rect x="366" y="61" width="50" height="5" rx="2.5" fill="#fbbf24" fill-opacity="0.75"/><rect x="366" y="72" width="56" height="5" rx="2.5" fill="#fbbf24" fill-opacity="0.75"/><rect x="366" y="83" width="36" height="5" rx="2.5" fill="#fbbf24" fill-opacity="0.75"/>
+      <text x="396.0" y="116" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" fill="#8ea0b8">ANSWER</text></g>
+    <path d="M98 68 H118" stroke="#fff" stroke-opacity="0.25" stroke-width="2" stroke-dasharray="4 4"/><path d="M226 68 H250" stroke="#fff" stroke-opacity="0.25" stroke-width="2" stroke-dasharray="4 4"/><path d="M336 68 H354" stroke="#fff" stroke-opacity="0.25" stroke-width="2" stroke-dasharray="4 4"/><circle r="4" fill="#f472b6"><animateMotion path="M98 68 H430" dur="3.6s" begin="0s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.08;0.9;1" dur="3.6s" begin="0s" repeatCount="indefinite"/></circle><circle r="4" fill="#f472b6"><animateMotion path="M98 68 H430" dur="3.6s" begin="1.8s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.08;0.9;1" dur="3.6s" begin="1.8s" repeatCount="indefinite"/></circle>
+    <text x="34" y="30" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" fill="#8ea0b8" opacity="0"/></g>
+  <text x="30" y="40" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" letter-spacing="2" fill="#f472b6">PROJECT 01</text>
+  <g transform="translate(452,38)"><circle r="17" fill="#f472b6" fill-opacity="0.14" stroke="#f472b6" stroke-opacity="0.5"/><path d="M-5 5 L5 -5 M-3 -5 H5 V3" fill="none" stroke="#f472b6" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></g>
+  <text x="28" y="208" font-family="'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="23" font-weight="800" fill="#f0f4ff">RagForge</text>
+  <text x="28" y="234" font-family="'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="14.5" fill="#a8b8cd">Production-grade RAG: hybrid retrieval, cross-encoder</text>
+  <text x="28" y="254" font-family="'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="14.5" fill="#a8b8cd">reranking, adaptive routing and statistical evaluation.</text>
+  <g transform="translate(28,276)"><rect width="62.8" height="26" rx="13.0" fill="#f472b6" fill-opacity="0.12" stroke="#f472b6" stroke-opacity="0.45"/><text x="31.4" y="17.1" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="11.5" fill="#f472b6">Python</text></g><g transform="translate(98.78,276)"><rect width="41.4" height="26" rx="13.0" fill="#f472b6" fill-opacity="0.12" stroke="#f472b6" stroke-opacity="0.45"/><text x="20.7" y="17.1" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="11.5" fill="#f472b6">RAG</text></g><g transform="translate(148.17000000000002,276)"><rect width="84.2" height="26" rx="13.0" fill="#f472b6" fill-opacity="0.12" stroke="#f472b6" stroke-opacity="0.45"/><text x="42.1" y="17.1" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="11.5" fill="#f472b6">Reranking</text></g>
+</g>
+<rect x="0.5" y="0.5" width="489" height="321" rx="22" fill="none" stroke="#ffffff" stroke-opacity="0.1"/>
+</svg>
