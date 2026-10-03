@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 326 86" width="326" height="86" role="img" aria-label="Real-Time Recommender: Deep learning, heuristic ranking">
+<defs></defs>
+
+  <rect x="0.5" y="0.5" width="325" height="85" rx="12" fill="#161b22" stroke="#30363d"/>
+  <g transform="translate(44,43)"><rect x="-20" y="2" width="6" height="12" rx="2" fill="#484f58"><animate attributeName="height" values="12;6;12" dur="2.0s" repeatCount="indefinite"/><animate attributeName="y" values="2;8;2" dur="2.0s" repeatCount="indefinite"/></rect><rect x="-9" y="-8" width="6" height="22" rx="2" fill="#484f58"><animate attributeName="height" values="22;11;22" dur="2.4s" repeatCount="indefinite"/><animate attributeName="y" values="-8;3;-8" dur="2.4s" repeatCount="indefinite"/></rect><rect x="2" y="-2" width="6" height="16" rx="2" fill="#484f58"><animate attributeName="height" values="16;8;16" dur="2.8s" repeatCount="indefinite"/><animate attributeName="y" values="-2;6;-2" dur="2.8s" repeatCount="indefinite"/></rect><rect x="13" y="-14" width="6" height="28" rx="2" fill="#4493f8"><animate attributeName="height" values="28;14;28" dur="3.2s" repeatCount="indefinite"/><animate attributeName="y" values="-14;0;-14" dur="3.2s" repeatCount="indefinite"/></rect></g>
+  <text x="88" y="38" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#e6edf3">Real-Time Recommender</text>
+  <text x="88" y="59" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12.5" fill="#9da7b3">Deep learning, heuristic ranking</text>
+</svg>

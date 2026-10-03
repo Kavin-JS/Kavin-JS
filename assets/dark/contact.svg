@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 190" width="1000" height="190" role="img" aria-label="Get in touch: open to internships, placement opportunities and open-source collaboration. kavinjs.dev@gmail.com">
+<defs></defs>
+
+  <rect x="0.5" y="0.5" width="999" height="189" rx="12" fill="#161b22" stroke="#30363d"/>
+  <g transform="translate(40,60)"><g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.1250;1" dur="0.80s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="0 8;0 8;0 0" keyTimes="0;0.1250;1" dur="0.80s" fill="freeze"/><text font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="32" font-weight="600" fill="#e6edf3">Get in touch</text></g></g>
+  <g transform="translate(40,96)"><g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.3000;1" dur="1.00s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="0 8;0 8;0 0" keyTimes="0;0.3000;1" dur="1.00s" fill="freeze"/><text font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="16.5" fill="#9da7b3">Open to internships, placement opportunities and open-source collaboration.</text></g></g>
+  <g transform="translate(40,146)"><g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.4167;1" dur="1.20s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="0 8;0 8;0 0" keyTimes="0;0.4167;1" dur="1.20s" fill="freeze"/><text font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="22" font-weight="500" fill="#4493f8">kavinjs.dev@gmail.com</text></g></g>
+  <line x1="40" y1="158" x2="330" y2="158" stroke="#4493f8" stroke-width="1.5" stroke-dasharray="290" stroke-dashoffset="0"><animate attributeName="stroke-dashoffset" values="290;290;0" keyTimes="0;0.4444;1" dur="1.80s" fill="freeze"/></line>
+  <g transform="translate(868,95)" opacity="0.9">
+    <circle r="38" fill="none" stroke="#30363d" stroke-width="1.5"/><circle r="62" fill="none" stroke="#30363d" stroke-width="1.5"/><circle r="86" fill="none" stroke="#30363d" stroke-width="1.5"/>
+    <circle r="4" fill="#4493f8"/>
+    <circle r="4" fill="none" stroke="#4493f8" stroke-width="1.4"><animate attributeName="r" values="4;86;86" keyTimes="0;0.8;1" dur="4s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.9;0;0" keyTimes="0;0.8;1" dur="4s" repeatCount="indefinite"/></circle>
+    <circle r="4" fill="none" stroke="#4493f8" stroke-width="1.4"><animate attributeName="r" values="4;86;86" keyTimes="0;0.8;1" dur="4s" begin="2s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.9;0;0" keyTimes="0;0.8;1" dur="4s" begin="2s" repeatCount="indefinite"/></circle>
+  </g>
+</svg>

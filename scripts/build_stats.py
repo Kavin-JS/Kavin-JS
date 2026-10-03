@@ -231,6 +231,7 @@ def render_stats(P, gh, lc, live):
   {"".join(left)}
   <circle cx="{cx}" cy="{cy}" r="{r}" fill="none" stroke="{bd}" stroke-width="{sw}"/>
   {"".join(segs)}
+  <circle cx="{cx+r+sw/2+7}" cy="{cy}" r="2.6" fill="{acc}"><animateMotion path="M0 0 A{r+sw/2+7} {r+sw/2+7} 0 1 1 {-2*(r+sw/2+7)} 0 A{r+sw/2+7} {r+sw/2+7} 0 1 1 0 0" dur="9s" repeatCount="indefinite"/></circle>
   <text x="{cx}" y="{cy+6}" text-anchor="middle" font-family="{SANS}" font-size="26" font-weight="600" fill="{txt}">{total_txt}</text>
   <text x="{cx}" y="{cy+24}" text-anchor="middle" font-family="{SANS}" font-size="11" fill="{mute}">solved</text>
   {legend}
@@ -290,7 +291,8 @@ def render_skyline(P, days, live):
         tot = delay + 0.6
         kt = f"0;{delay/tot:.4f};1"
         anim = (f'<animateTransform attributeName="transform" type="translate" values="0 -30;0 -30;0 0" keyTimes="{kt}" dur="{tot:.2f}s" fill="freeze"/>' + hold("opacity", "0", "1", delay, 0.6))
-        out.append(f"<g>{anim}{''.join(g)}</g>")
+        wave = f'<animateTransform attributeName="transform" type="translate" values="0 0;0 -2.5;0 0" dur="6s" begin="-{(w * 0.17) % 6:.2f}s" repeatCount="indefinite"/>'
+        out.append(f"<g>{anim}<g>{wave}{''.join(g)}</g></g>")
     total = sum(counts)
     active = sum(1 for n in counts if n)
     cur, best = streaks(days)
