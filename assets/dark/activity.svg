@@ -7,11 +7,11 @@
   <line x1="32" y1="142" x2="968" y2="142" stroke="#30363d"/><line x1="32" y1="222" x2="968" y2="222" stroke="#30363d"/>
   <g transform="translate(32,80)"><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.2308;1" dur="0.65s" fill="freeze"/>
     <text font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#4493f8">kavin-js.github.io</text>
-    <text x="436" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" fill="#6e7681">13h ago</text>
+    <text x="436" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" fill="#6e7681">2h ago</text>
     <text y="22" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="13" fill="#9da7b3">Personal portfolio website — Kavin JS | B.Tech CSE, Amrita Vishwa V…</text>
     <circle cx="5" cy="45" r="4.5" fill="#e34c26"/><text x="16" y="49" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" fill="#6e7681">HTML</text></g><g transform="translate(516,80)"><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.3506;1" dur="0.77s" fill="freeze"/>
     <text font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#4493f8">BLE-Classroom-Presence</text>
-    <text x="436" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" fill="#6e7681">7d ago</text>
+    <text x="436" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" fill="#6e7681">8d ago</text>
     <text y="22" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="13" fill="#9da7b3">Multi-node BLE classroom presence verification system using ESP32,…</text>
     <circle cx="5" cy="45" r="4.5" fill="#e34c26"/><text x="16" y="49" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" fill="#6e7681">HTML</text></g><g transform="translate(32,160)"><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.4382;1" dur="0.89s" fill="freeze"/>
     <text font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#4493f8">Real-Time-Recommendation-System</text>
@@ -23,14 +23,14 @@
     <text y="22" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="13" fill="#9da7b3">AIKA — AI Knowledge System: an intelligent, modular AI assistant fo…</text>
     <circle cx="5" cy="45" r="4.5" fill="#f1e05a"/><text x="16" y="49" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" fill="#6e7681">JavaScript</text></g><g transform="translate(32,240)"><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.5575;1" dur="1.13s" fill="freeze"/>
     <text font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#4493f8">RagForge</text>
-    <text x="436" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" fill="#6e7681">9d ago</text>
+    <text x="436" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" fill="#6e7681">10d ago</text>
     <text y="22" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="13" fill="#9da7b3">Production-grade RAG pipeline with hybrid retrieval, cross-encoder…</text>
     <circle cx="5" cy="45" r="4.5" fill="#3572A5"/><text x="16" y="49" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" fill="#6e7681">Python</text></g><g transform="translate(516,240)"><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.6000;1" dur="1.25s" fill="freeze"/>
     <text font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#4493f8">AMLC26</text>
     <text x="436" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" fill="#6e7681">10d ago</text>
     <text y="22" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="13" fill="#9da7b3">Business Entity Resolution - Unstop ML Challenge</text>
     <circle cx="5" cy="45" r="4.5" fill="#3572A5"/><text x="16" y="49" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" fill="#6e7681">Python</text></g>
-  <text x="976" y="320" text-anchor="end" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" fill="#6e7681">updated 2026-10-06 UTC · GitHub Actions</text>
+  <text x="976" y="320" text-anchor="end" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" fill="#6e7681">updated 2026-10-07 UTC · GitHub Actions</text>
 </g>
 <rect x="0.5" y="0.5" width="999" height="333" rx="12" fill="none" stroke="#30363d"/>
 </svg>
